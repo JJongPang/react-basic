@@ -6,7 +6,7 @@ import TodosContainer from './containers/TodosContainer';
 const App = () => {
   return (
     <div>
-      <SampleContainer />
+      <CounterContainer />
     </div>
   );
 };
